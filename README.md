@@ -33,8 +33,7 @@ A basic sentiment analysis web app for classifying social media posts as positiv
 ### 1. Clone this repo
 
 ```bash
-git clone <repo-url>
-cd <repo-dir>
+git clone https://github.com/Hassan123j/LSTM-Based-Sentiment-Analysis
 ```
 
 ### 2. (Optional) Set up a virtual environment
